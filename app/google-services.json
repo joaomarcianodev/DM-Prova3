@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758627661773",
+    "project_id": "dm-prova3",
+    "storage_bucket": "dm-prova3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758627661773:android:dc229743028b09b5bbb684",
+        "android_client_info": {
+          "package_name": "com.jams.autenticacao_firebase_compose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlTpfiKeWsD-tAv1cz6HvUaL9RmWfCFLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
