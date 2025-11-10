@@ -20,8 +20,7 @@
 
 | Account does not exist | Easy Password | Wrong Password | Accont already exist |
 |:---:|:---:|:---:|:---:|
-| <img height="500" alt="view_1" src="https://github.com/user-attachments/assets/8f28a62d-221c-43f3-8309-cb73a7468b97" /> | <img height="500" alt="view_2" src="https://github.com/user-attachments/assets/c09325d4-a2a6-4a72-911f-5c452254e4b6" /> | <img height="500" alt="view_3" src="https://github.com/user-attachments/assets/27afc5e6-6cc8-478f-9274-c264a91d5f83" /> | <img height="500" alt="view_4" src="https://github.com/user-attachments/assets/d622fba0-7e57-48c7-acda-a3fca7d85586" />
- |
+| <img height="500" alt="view_1" src="https://github.com/user-attachments/assets/8f28a62d-221c-43f3-8309-cb73a7468b97" /> | <img height="500" alt="view_2" src="https://github.com/user-attachments/assets/c09325d4-a2a6-4a72-911f-5c452254e4b6" /> | <img height="500" alt="view_3" src="https://github.com/user-attachments/assets/27afc5e6-6cc8-478f-9274-c264a91d5f83" /> | <img height="500" alt="view_4" src="https://github.com/user-attachments/assets/d622fba0-7e57-48c7-acda-a3fca7d85586" /> |
 
   - Provides user authentication with Firebase.
   - Supports new account creation using email and password.
